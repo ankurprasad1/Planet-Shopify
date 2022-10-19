@@ -14,6 +14,8 @@ The _Planet Shopify_ is a eCommerce website. Developed using php in backend and 
 [view screenshots](https://github.com/ankurprasad1/project/tree/main/planetshopify%20screenshots)
 
 ![index](https://github.com/ankurprasad1/project/blob/68f746519b99b41009f5dc34c56d9c6d245ebe03/productgif.gif)
+
+
 ![Home Page](https://github.com/ankurprasad1/project/blob/e23ff4c96adcbbd320e329818dfcf8345f8a6122/planetshopify%20screenshots/home.png)
 ![About us](https://github.com/ankurprasad1/project/blob/e23ff4c96adcbbd320e329818dfcf8345f8a6122/planetshopify%20screenshots/about%20us.png)
 ![Products](https://github.com/ankurprasad1/project/blob/e23ff4c96adcbbd320e329818dfcf8345f8a6122/planetshopify%20screenshots/product.png)
